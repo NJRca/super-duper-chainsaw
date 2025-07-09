@@ -1,0 +1,5 @@
+config.json
+processed_urls.json
+scrape.log
+listings/
+__pycache__/
